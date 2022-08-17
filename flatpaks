@@ -1,0 +1,95 @@
+Arduino IDE v2	cc.arduino.IDE2	2.0.0-rc9.2	stable	system
+Decoder	com.belmoussaoui.Decoder	0.3.1	stable	system
+Bitwig Studio	com.bitwig.BitwigStudio	4.3.4	stable	system
+Discord	com.discordapp.Discord	0.0.19	stable	system
+Postman	com.getpostman.Postman	9.27.0	stable	system
+Foliate	com.github.johnfactotum.Foliate	2.6.4	stable	system
+G4Music	com.github.neithern.g4music	1.6	stable	system
+Whaler	com.github.sdv43.whaler	1.2.0	stable	system
+Flatseal	com.github.tchx84.Flatseal	1.8.0	stable	system
+Heroic Games Launcher	com.heroicgameslauncher.hgl	v2.4.0	stable	system
+Extension Manager	com.mattjakeman.ExtensionManager	0.3.1	stable	system
+Minecraft	com.mojang.Minecraft	1.0.1221	stable	system
+OBS Studio	com.obsproject.Studio	27.2.4	stable	system
+Blanket	com.rafaelmardojai.Blanket	0.6.0	stable	system
+Webfont Kit Generator	com.rafaelmardojai.WebfontKitGenerator	1.0.1	stable	system
+Black Box	com.raggesilver.BlackBox	0.12.0	stable	system
+Slack	com.slack.Slack	4.27.156	stable	system
+Spotify	com.spotify.Client	1.1.84.716.gc5f8b819	stable	system
+Transmission	com.transmissionbt.Transmission	3.00	stable	system
+Bottles	com.usebottles.bottles	2022.8.14-brescia	stable	system
+Steam	com.valvesoftware.Steam	1.0.0.74	stable	system
+Hackgregator	de.gunibert.Hackgregator	0.4.0	stable	system
+HomeBank	fr.free.Homebank	5.5.5	stable	system
+Flowtime	io.github.diegoivanme.flowtime	2.5	stable	system
+Colorway	io.github.lainsce.Colorway	1.2.0	stable	system
+PeaZip	io.github.peazip.PeaZip	8.7.0	stable	system
+peazip i386 addon	io.github.peazip.PeaZip.Addon.i386	1.0.0	stable	system
+GitHub Desktop	io.github.shiftey.Desktop	3.0.5-linux1	stable	system
+Obsidian	md.obsidian.Obsidian	0.15.9	stable	system
+Joplin	net.cozic.joplin_desktop	2.8.8	stable	system
+Veloren	net.veloren.veloren	0.12.0-dfe2e1c	stable	system
+Color Picker	nl.hjdskes.gcolor3	2.4.0	stable	system
+Dolphin Emulator	org.DolphinEmu.dolphin-emu	5.0-16793	stable	system
+Blender	org.blender.Blender	3.2.2	stable	system
+Codecs	org.blender.Blender.Codecs		stable	system
+fre:ac	org.freac.freac	1.1.6	stable	system
+TAP-plugins	org.freedesktop.LinuxAudio.Plugins.TAP	1.0.1	21.08	system
+SWH	org.freedesktop.LinuxAudio.Plugins.swh	0.4.17	21.08	system
+Freedesktop Platform	org.freedesktop.Platform	21.08.15	21.08	system
+i386	org.freedesktop.Platform.Compat.i386		21.08	system
+Mesa	org.freedesktop.Platform.GL.default	21.1.8	20.08	system
+Mesa	org.freedesktop.Platform.GL.default	21.3.9	21.08	system
+nvidia-515-57	org.freedesktop.Platform.GL.nvidia-515-57		1.4	system
+nvidia-515-65-01	org.freedesktop.Platform.GL.nvidia-515-65-01		1.4	system
+default	org.freedesktop.Platform.GL32.default		21.08	system
+nvidia-515-57	org.freedesktop.Platform.GL32.nvidia-515-57		1.4	system
+nvidia-515-65-01	org.freedesktop.Platform.GL32.nvidia-515-65-01		1.4	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		20.08	system
+Intel	org.freedesktop.Platform.VAAPI.Intel		21.08	system
+i386	org.freedesktop.Platform.VAAPI.Intel.i386		21.08	system
+ffmpeg-full	org.freedesktop.Platform.ffmpeg-full		21.08	system
+i386	org.freedesktop.Platform.ffmpeg_full.i386		21.08	system
+openh264	org.freedesktop.Platform.openh264	2.1.0	2.0	system
+Freedesktop SDK	org.freedesktop.Sdk	21.08.15	21.08	system
+Swatch	org.gabmus.swatch	0.1	stable	system
+GeoGebra	org.geogebra.GeoGebra	6-0-726-0	stable	system
+GNU Image Manipulation Program	org.gimp.GIMP	2.10.32	stable	system
+Font Manager	org.gnome.FontManager	0.8.8	stable	system
+Games	org.gnome.Games	40.0	stable	system
+Lollypop	org.gnome.Lollypop	1.4.35	stable	system
+GNOME Application Platform version 41	org.gnome.Platform		41	system
+GNOME Application Platform version 42	org.gnome.Platform		42	system
+i386	org.gnome.Platform.Compat.i386		42	system
+Solanum	org.gnome.Solanum	3.0.1	stable	system
+Pika Backup	org.gnome.World.PikaBackup	0.4.2	stable	system
+Contrast	org.gnome.design.Contrast	0.0.5	stable	system
+Identity	org.gnome.gitlab.YaLTeR.Identity	0.3.0	stable	system
+Inkscape	org.inkscape.Inkscape	1.2.1	stable	system
+Adwaita theme	org.kde.KStyle.Adwaita		5.15-21.08	system
+Adwaita theme	org.kde.KStyle.Adwaita		6.2	system
+KDE Application Platform	org.kde.Platform		5.15-21.08	system
+KDE Application Platform	org.kde.Platform		6.2	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		5.15-21.08	system
+QGnomePlatform	org.kde.PlatformTheme.QGnomePlatform		6.2	system
+QtSNI	org.kde.PlatformTheme.QtSNI		5.15-21.08	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		5.15-21.08	system
+QGnomePlatform-decoration	org.kde.WaylandDecoration.QGnomePlatform-decoration		6.2	system
+Kdenlive	org.kde.kdenlive	22.04.3	stable	system
+Krita	org.kde.krita	5.0.8	stable	system
+Okular	org.kde.okular	22.04.3	stable	system
+KiCad	org.kicad.KiCad	6.0.7	stable	system
+KiCad Footprint Libraries	org.kicad.KiCad.Library.Footprints		stable	system
+KiCad 3D Model Libraries	org.kicad.KiCad.Library.Packages3D		stable	system
+KiCad Schematic Symbol Libraries	org.kicad.KiCad.Library.Symbols		stable	system
+KiCad Templates	org.kicad.KiCad.Library.Templates		stable	system
+RetroArch	org.libretro.RetroArch	1.10.3	stable	system
+Thunderbird	org.mozilla.Thunderbird	91.12.0	stable	system
+ONLYOFFICE Desktop Editors	org.onlyoffice.desktopeditors	7.1.1	stable	system
+qBittorrent	org.qbittorrent.qBittorrent	4.4.3.1	stable	system
+Surge XT Synthesizer	org.surge_synth_team.surge-xt	1.1.0	stable	system
+DXVK	org.winehq.Wine.DLLs.dxvk	1.10.3	stable-21.08	system
+Gecko	org.winehq.Wine.gecko		stable-21.08	system
+Mono	org.winehq.Wine.mono		stable-21.08	system
+Manyverse Desktop	se.manyver.Manyverse	0.2208.5-beta	stable	system
+Zoom	us.zoom.Zoom	5.11.3.3882	stable	system
