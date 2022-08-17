@@ -1,7 +1,7 @@
 # installed-packages
 Packages I've personally installed on my Linux box.
 
-Found with
+Compiled using:
 
 ```dnf list > dnf-packages```
 
